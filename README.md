@@ -121,13 +121,13 @@ An NLP-based application for classifying text sentiment using Machine Learning.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 </p>
 
 - Python
 - SQL
-- JavaScript
+
 
 ---
 
