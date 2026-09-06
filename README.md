@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Infant%20Jesun&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Student%20%7C%20AI%2FML%20Engineer%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Infant%20Jesun&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
 
 <br>
 
