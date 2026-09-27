@@ -1,139 +1,34 @@
-<div align="center">
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>, I'm Infant Jesun G
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Infant%20Jesun%20G&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20ML%20%2F%20Data%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Data+Analytics;Generative+AI+%2F+RAG+Enthusiast;Aspiring+ML+Engineer&center=true&width=500&height=50)](https://github.com/infant1532006)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Science+%7C+Machine+Learning+%7C+Generative+AI;RAG+Systems+%26+LLM+Applications;Turning+Data+Into+Decisions;Learn.+Build.+Break.+Fix.+Repeat." alt="Typing SVG" />
+| **Hello there!** I'm **Infant Jesun G**, a B.Tech Artificial Intelligence & Data Science student graduating in 2027. I have hands-on experience in **Data Analytics, Data Preprocessing, and Machine Learning**, and I'm skilled in Python, SQL, EDA, Feature Engineering, and supervised & unsupervised ML. I love analyzing real-world datasets and turning them into working, data-driven solutions, and I'm actively seeking opportunities in **Data Science, ML Engineering, and Data Analytics**. | [![Coding animation](https://i.makeagif.com/media/8-18-2023/tuSsml.gif)](https://github.com/infant1532006) |
+| --- | --- |
 
-<br/>
+### ***❝ Learn. Build. Break. Fix. Repeat. ❞***
 
-<a href="https://github.com/infant1532006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/infantjesun15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jesuninfant15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kanniyakumari,_India-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+### About Me 🧑
 
-</div>
-
----
-
-### 👋 About Me
-
-I'm a **B.Tech Artificial Intelligence & Data Science student** (graduating 2027) with hands-on experience in **Data Analytics, Data Preprocessing, and Machine Learning**. I enjoy turning messy, real-world datasets into models, dashboards, and applications that actually solve problems — and I'm currently sharpening my skills toward a career in **Data Science / ML Engineering**.
-
-```yaml
-Role:        AI & Data Science Student
-Focus:       Machine Learning · Data Analytics · Generative AI (RAG)
-Experience:  2x Remote Internships (ML + Data Analytics) at Novitech
-Languages:   English (Professional) · Tamil (Native) · Malayalam (Elementary)
-Currently:   Building end-to-end ML/GenAI projects & sharpening DSA
-```
+- 🎓 B.Tech AI & Data Science student, graduating 2027
+- 🔭 Currently focused on Machine Learning, Data Analytics & Generative AI (RAG)
+- 💼 2x Remote Intern at Novitech — Machine Learning & Data Analytics
+- 👯 Looking to collaborate on ML, Data Science & GenAI projects
+- 💡 Always eager to build real-world AI-powered applications
+- ⚡ Fun fact: I enjoy solving DSA problems for fun
 
 ---
 
-### 💼 Experience
+**🧰 Technology Stack**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Programming Languages**
 
-**🤖 Machine Learning Intern**
-`Novitech` · Online · May 2026 – Jun 2026
-
-- Applied Python, Pandas, NumPy & Scikit-learn to analyze datasets and build predictive models
-- Evaluated ML models, interpreted results, and improved performance through data-driven tuning
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Data Analytics Intern**
-`Novitech` · Online · Jun 2025 – Jul 2025
-
-- Cleaned & analyzed datasets with Python, Pandas, Excel, SQL & Power BI to surface trends
-- Built visualizations and reports that supported data-driven decision-making
-
-</td>
-</tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔎 RAG Agent — Document Chat System
-Local multi-document chat system with checklist-based file selection and context-aware AI responses.
-
-`Python` `FastAPI` `Gemini API` `FAISS` `Sentence Transformers` `HTML/CSS/JS`
-
-🔗 [MY_RAG_SYSTEM](https://github.com/infant1532006/MY_RAG_SYSTEM)
-
-</td>
-<td width="50%" valign="top">
-
-#### 💬 SQL Chatbot
-Ask questions in plain English, get live SQL results from Snowflake — powered by Gemini + Streamlit.
-
-`Python` `SQL` `Snowflake` `Gemini API` `Streamlit`
-
-🔗 [SQL_chatbot](https://github.com/infant1532006/SQL_chatbot)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🚦 Road Accident Analysis Dashboard
-Interactive dashboard analyzing 2021 vs 2022 road accident data — trends, casualties & high-risk factors.
-
-`Excel` `Pivot Tables` `Data Cleaning` `Data Visualization`
-
-</td>
-<td width="50%" valign="top">
-
-#### 💵 Fake Banknote Detection
-ML classification model distinguishing genuine vs fake banknotes using numerical features.
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Jupyter`
-
-🔗 [fake-banknote-detection-ml](https://github.com/infant1532006/fake-banknote-detection-ml)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 😊 Sentiment Analysis Model
-Classifies text into positive/negative sentiment using TF-IDF + Random Forest.
-
-`Python` `NLTK` `TF-IDF` `Random Forest` `Scikit-learn`
-
-🔗 [sentiment_analyzer](https://github.com/infant1532006/sentiment_analyzer)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗄️ Sales Management Database
-SQL database project for managing and querying sales operations data.
-
-`SQL` `Database Design`
-
-🔗 [sales-management-database](https://github.com/infant1532006/sales-management-database)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
 **AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
-`RAG` `NLP` `Prompt Engineering` `Supervised & Unsupervised Learning` `APIs`
+`RAG` `NLP` `Prompt Engineering` `Supervised Learning` `Unsupervised Learning` `APIs`
 
 **Data Science & Analytics**
 
@@ -141,56 +36,44 @@ SQL database project for managing and querying sales operations data.
 
 `EDA` `Feature Engineering` `Statistical Analysis` `Matplotlib` `Seaborn` `Power BI`
 
-**Programming & Databases**
+**Database & Storage**
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-`Python (OOP, File Handling)` `SQL (CTEs, Window Functions, GROUP BY/HAVING)` `Snowflake`
+`Snowflake`
 
-**Tools**
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
-`GitHub` `VS Code` `Cursor` `Google Colab`
+`Cursor` `Google Colab`
 
 ---
 
-### 🎓 Education
+**🔭 Future Learning Goals**
 
-**B.Tech – Artificial Intelligence & Data Science** · CGPA 7.6/10
-St. Joseph College of Engineering, Sriperumbudur
-
-**HSC** · 80.5%
-St. Mary's Higher Secondary School, Colachel, Kanniyakumari (2021 – 2023)
-
-**Certifications:** Power BI · SQL · Python
+- Backend Development `FastAPI` `REST APIs`
+- AI Agents & AI Automation `LangChain` `LLM Applications`
+- Cloud & Deployment `Docker` `Cloud Platforms`
 
 ---
 
-### 📊 GitHub Stats
+**📊 GitHub Analytics**
 
-<div align="center">
+[![](https://github-readme-stats.vercel.app/api?username=infant1532006&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=ffffff&text_color=ffffff&bg_color=00000000&count_private=true&include_all_commits=true&cache_seconds=1800)](https://github.com/infant1532006) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=infant1532006&text_color=ffffff&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/infant1532006)
 
-<img src="https://github-readme-stats.vercel.app/api?username=infant1532006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infant1532006&theme=tokyonight&hide_border=true" height="165"/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=infant1532006&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4)](https://github.com/infant1532006)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infant1532006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+[![](https://github-profile-trophy.vercel.app/?username=infant1532006&theme=darkhub&no-frame=true)](https://github.com/infant1532006)
 
 ---
 
-<div align="center">
+### 🌐 Connect With Me
 
-### 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infantjesun15) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesuninfant15@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infant1532006)
 
-<a href="https://www.linkedin.com/in/infantjesun15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jesuninfant15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=infant1532006&label=Profile%20Views&color=6c63ff&style=for-the-badge" />
+[![Infant Jesun's github stats](https://komarev.com/ghpvc/?username=infant1532006&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/infant1532006)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
+Created with 🖤 by [infant1532006](https://github.com/infant1532006)
