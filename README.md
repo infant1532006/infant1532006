@@ -1,79 +1,338 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>, I'm Infant Jesun G
+<!-- ========================= HEADER ========================= -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Data+Analytics;Generative+AI+%2F+RAG+Enthusiast;Aspiring+ML+Engineer&center=true&width=500&height=50)](https://github.com/infant1532006)
+<div align="center">
 
-| **Hello there!** I'm **Infant Jesun G**, a B.Tech Artificial Intelligence & Data Science student graduating in 2027. I have hands-on experience in **Data Analytics, Data Preprocessing, and Machine Learning**, and I'm skilled in Python, SQL, EDA, Feature Engineering, and supervised & unsupervised ML. I love analyzing real-world datasets and turning them into working, data-driven solutions, and I'm actively seeking opportunities in **Data Science, ML Engineering, and Data Analytics**. | [![Coding animation](https://i.makeagif.com/media/8-18-2023/tuSsml.gif)](https://github.com/infant1532006) |
-| --- | --- |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Infant%20Jesun&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
 
-### ***❝ Learn. Build. Break. Fix. Repeat. ❞***
+<br>
 
-### About Me 🧑
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Applications;Exploring+Generative+AI+%7C+RAG;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG"/>
 
-- 🎓 B.Tech AI & Data Science student, graduating 2027
-- 🔭 Currently focused on Machine Learning, Data Analytics & Generative AI (RAG)
-- 💼 2x Remote Intern at Novitech — Machine Learning & Data Analytics
-- 👯 Looking to collaborate on ML, Data Science & GenAI projects
-- 💡 Always eager to build real-world AI-powered applications
-- ⚡ Fun fact: I enjoy solving DSA problems for fun
+<br><br>
+
+<a href="https://github.com/infant1532006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/infantjesun15">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jesuninfant15@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-**🧰 Technology Stack**
+# 👋 About Me
 
-**Programming Languages**
+Hi! I'm **Infant Jesun**, an **AI & Data Science student** passionate about building practical solutions using **Python, Machine Learning, Data Science, and Generative AI**.
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+I enjoy turning ideas into working applications and continuously improving my problem-solving and engineering skills.
 
-**AI / Machine Learning**
+```text
+🎓 AI & Data Science Student
+🤖 AI / ML Enthusiast
+🐍 Python Developer
+📊 Data Science & Analytics
+🧠 Machine Learning & Deep Learning
+🔎 Generative AI & RAG
+⚙️ AI Automation
+💻 DSA & Problem Solving
+```
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+---
 
-`RAG` `NLP` `Prompt Engineering` `Supervised Learning` `Unsupervised Learning` `APIs`
+# 🚀 Featured Projects
 
-**Data Science & Analytics**
+## 🔎 RAG Document Chat System
+
+An AI-powered document question-answering system using Retrieval-Augmented Generation.
+
+**Technologies**
+
+- 🤖 Google Gemini API
+- 🔎 FAISS
+- 🧠 Sentence Transformers
+- 📚 RAG
+- 🐍 Python
+
+**Repository:**  
+👉 [MY_RAG_SYSTEM](https://github.com/infant1532006/MY_RAG_SYSTEM)
+
+---
+
+## 💬 SQL Chatbot
+
+A natural-language SQL chatbot that allows users to interact with databases using conversational queries.
+
+**Technologies**
+
+- 🐍 Python
+- 🗄️ SQL
+- ❄️ Snowflake
+- 🤖 Gemini API
+- 🎨 Streamlit
+
+**Repository:**  
+👉 [SQL_chatbot](https://github.com/infant1532006/SQL_chatbot)
+
+---
+
+## 💵 Fake Banknote Detection
+
+A Machine Learning project for detecting genuine and fake banknotes using numerical features.
+
+**Technologies**
+
+- 🐍 Python
+- 📊 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-learn
+- 📓 Jupyter Notebook
+
+**Repository:**  
+👉 [fake-banknote-detection-ml](https://github.com/infant1532006/fake-banknote-detection-ml)
+
+---
+
+## 😊 Sentiment Analyzer
+
+An NLP-based application for classifying text sentiment using Machine Learning.
+
+**Technologies**
+
+- 🐍 Python
+- 🌐 Flask
+- 📝 NLP
+- 🔤 TF-IDF
+- 🌳 Random Forest
+
+**Repository:**  
+👉 [sentiment_analyzer](https://github.com/infant1532006/sentiment_analyzer)
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,sql" />
+
+</p>
+
+- Python
+- SQL
+
+
+---
+
+## 📊 Data Science
+
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 
-`EDA` `Feature Engineering` `Statistical Analysis` `Matplotlib` `Seaborn` `Power BI`
+</p>
 
-**Database & Storage**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-`Snowflake`
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-
-`Cursor` `Google Colab`
+- NumPy
+- Pandas
+- Matplotlib
+- Power BI
+- Exploratory Data Analysis
+- Statistics
+- Feature Engineering
 
 ---
 
-**🔭 Future Learning Goals**
+## 🤖 Machine Learning & AI
 
-- Backend Development `FastAPI` `REST APIs`
-- AI Agents & AI Automation `LangChain` `LLM Applications`
-- Cloud & Deployment `Docker` `Cloud Platforms`
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+</p>
+
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- XGBoost
+- Machine Learning
+- Deep Learning
 
 ---
 
-**📊 GitHub Analytics**
+## 🧠 Generative AI
 
-[![](https://github-readme-stats.vercel.app/api?username=infant1532006&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=ffffff&text_color=ffffff&bg_color=00000000&count_private=true&include_all_commits=true&cache_seconds=1800)](https://github.com/infant1532006) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=infant1532006&text_color=ffffff&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/infant1532006)
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=infant1532006&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4)](https://github.com/infant1532006)
-
-[![](https://github-profile-trophy.vercel.app/?username=infant1532006&theme=darkhub&no-frame=true)](https://github.com/infant1532006)
+- Google Gemini
+- Retrieval-Augmented Generation
+- FAISS
+- Sentence Transformers
+- LLM Applications
+- AI Agents
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infantjesun15) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesuninfant15@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infant1532006)
+<p align="left">
 
-### 👀 Profile Views
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,react,nodejs" />
 
-[![Infant Jesun's github stats](https://komarev.com/ghpvc/?username=infant1532006&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/infant1532006)
+</p>
 
-Created with 🖤 by [infant1532006](https://github.com/infant1532006)
+- FastAPI
+- Flask
+- Streamlit
+- React
+- REST APIs
+
+---
+
+## ⚙️ Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql,mongodb" />
+
+</p>
+
+- Git
+- GitHub
+- Docker
+- VS Code
+- MySQL
+- MongoDB
+
+---
+
+# 📚 Currently Learning
+
+```text
+DSA
+ ↓
+Mathematics & Statistics
+ ↓
+Data Science
+ ↓
+Machine Learning
+ ↓
+Deep Learning
+ ↓
+Generative AI
+ ↓
+RAG Systems
+ ↓
+AI Agents
+ ↓
+AI Automation
+ ↓
+Backend Development
+```
+
+---
+
+# 🎯 Current Focus
+
+- 🧩 Data Structures & Algorithms
+- 📐 Mathematics for AI/ML
+- 📊 Statistics
+- 🤖 Machine Learning
+- 🧠 Deep Learning with PyTorch
+- 🔥 Generative AI
+- 🔎 RAG Systems
+- 🤝 AI Agents
+- ⚙️ AI Automation
+- 🌐 Backend Development
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become an **AI/ML Engineer** capable of designing and building real-world intelligent applications.
+
+My learning path:
+
+```text
+Python
+   ↓
+DSA
+   ↓
+Data Science
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+AI Engineering
+```
+
+I am particularly interested in building **AI-powered applications that solve real-world problems**.
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+### 💻 Explore My Projects
+
+<a href="https://github.com/infant1532006?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/infant1532006">
+<img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/infant1532006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/infantjesun15">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jesuninfant15@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=infant1532006&label=Profile%20Views&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learn. Build. Break. Fix. Repeat."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+
+</div>
