@@ -1,142 +1,338 @@
-```{=html}
-<!--
-  GitHub Profile README
-  Repository: https://github.com/infant1532006/infant1532006
-  Replace or remove any skill badge that does not reflect your current level.
--->
-```
-::: {align="center"}
-`<img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Infant%20Jesun&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Science&descAlignY=58&descSize=18"
-    width="100%"
-    alt="Animated blue wave banner with Infant Jesun's name"
-  />`{=html}
+<!-- ========================= HEADER ========================= -->
 
-`<a href="https://readme-typing-svg.demolab.com">`{=html} `<img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Turning+data+into+useful+solutions;Building+real-world+ML+applications;Learning%2C+building%2C+and+improving+every+day"
-      alt="Animated typing introduction"
-    />`{=html} `</a>`{=html}
+<div align="center">
 
-```{=html}
-<p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Infant%20Jesun&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Applications;Exploring+Generative+AI+%7C+RAG;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/infant1532006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/infantjesun15">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jesuninfant15@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👋 About Me
+
+Hi! I'm **Infant Jesun**, an **AI & Data Science student** passionate about building practical solutions using **Python, Machine Learning, Data Science, and Generative AI**.
+
+I enjoy turning ideas into working applications and continuously improving my problem-solving and engineering skills.
+
+```text
+🎓 AI & Data Science Student
+🤖 AI / ML Enthusiast
+🐍 Python Developer
+📊 Data Science & Analytics
+🧠 Machine Learning & Deep Learning
+🔎 Generative AI & RAG
+⚙️ AI Automation
+💻 DSA & Problem Solving
 ```
-`<a href="https://github.com/infant1532006">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/infantjesun15/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html}
-```{=html}
+
+---
+
+# 🚀 Featured Projects
+
+## 🔎 RAG Document Chat System
+
+An AI-powered document question-answering system using Retrieval-Augmented Generation.
+
+**Technologies**
+
+- 🤖 Google Gemini API
+- 🔎 FAISS
+- 🧠 Sentence Transformers
+- 📚 RAG
+- 🐍 Python
+
+**Repository:**  
+👉 [MY_RAG_SYSTEM](https://github.com/infant1532006/MY_RAG_SYSTEM)
+
+---
+
+## 💬 SQL Chatbot
+
+A natural-language SQL chatbot that allows users to interact with databases using conversational queries.
+
+**Technologies**
+
+- 🐍 Python
+- 🗄️ SQL
+- ❄️ Snowflake
+- 🤖 Gemini API
+- 🎨 Streamlit
+
+**Repository:**  
+👉 [SQL_chatbot](https://github.com/infant1532006/SQL_chatbot)
+
+---
+
+## 💵 Fake Banknote Detection
+
+A Machine Learning project for detecting genuine and fake banknotes using numerical features.
+
+**Technologies**
+
+- 🐍 Python
+- 📊 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-learn
+- 📓 Jupyter Notebook
+
+**Repository:**  
+👉 [fake-banknote-detection-ml](https://github.com/infant1532006/fake-banknote-detection-ml)
+
+---
+
+## 😊 Sentiment Analyzer
+
+An NLP-based application for classifying text sentiment using Machine Learning.
+
+**Technologies**
+
+- 🐍 Python
+- 🌐 Flask
+- 📝 NLP
+- 🔤 TF-IDF
+- 🌳 Random Forest
+
+**Repository:**  
+👉 [sentiment_analyzer](https://github.com/infant1532006/sentiment_analyzer)
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,sql" />
+
 </p>
-```
-`<img src="https://komarev.com/ghpvc/?username=infant1532006&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>`{=html}
-:::
 
-------------------------------------------------------------------------
+- Python
+- SQL
 
-## 👨‍💻 About Me
 
--   🎓 Final-year **Artificial Intelligence and Data Science** student
-    at St. Joseph's College of Engineering.
--   🤖 Interested in **Machine Learning, Artificial Intelligence, and
-    Data Science**.
--   🛠️ Focused on building practical applications that solve real
-    problems.
--   📊 Interested in data analysis, model development, and turning
-    insights into decisions.
--   🌱 Currently strengthening my skills in Python, SQL, machine
-    learning, and application development.
--   🎯 Career goal: grow into an **AI/ML Engineer** who can build and
-    deploy end-to-end intelligent applications.
+---
 
-> I believe in learning by building: understand the problem, work with
-> the data, build the solution, test it, and improve it.
+## 📊 Data Science
 
-## 🧰 Tech Stack
+<p align="left">
 
-::: {align="center"}
-**Languages & Data**
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
 
-`<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>`{=html}
-
-**Machine Learning & Data Science**
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>`{=html}
-`<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white" alt="XGBoost"/>`{=html}
-`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>`{=html}
-`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>`{=html}
-`<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>`{=html}
-```{=html}
 </p>
+
+- NumPy
+- Pandas
+- Matplotlib
+- Power BI
+- Exploratory Data Analysis
+- Statistics
+- Feature Engineering
+
+---
+
+## 🤖 Machine Learning & AI
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+</p>
+
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- XGBoost
+- Machine Learning
+- Deep Learning
+
+---
+
+## 🧠 Generative AI
+
+- Google Gemini
+- Retrieval-Augmented Generation
+- FAISS
+- Sentence Transformers
+- LLM Applications
+- AI Agents
+
+---
+
+## 🌐 Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,react,nodejs" />
+
+</p>
+
+- FastAPI
+- Flask
+- Streamlit
+- React
+- REST APIs
+
+---
+
+## ⚙️ Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql,mongodb" />
+
+</p>
+
+- Git
+- GitHub
+- Docker
+- VS Code
+- MySQL
+- MongoDB
+
+---
+
+# 📚 Currently Learning
+
+```text
+DSA
+ ↓
+Mathematics & Statistics
+ ↓
+Data Science
+ ↓
+Machine Learning
+ ↓
+Deep Learning
+ ↓
+Generative AI
+ ↓
+RAG Systems
+ ↓
+AI Agents
+ ↓
+AI Automation
+ ↓
+Backend Development
 ```
-**Tools & Application Development**
 
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" alt="Git, GitHub, VS Code and Streamlit"/>`{=html}
-:::
+---
 
-## 🚀 Featured Project
+# 🎯 Current Focus
 
-::: {align="center"}
-`<a href="https://github.com/infant1532006/Nassau-Candy-Optimization-system">`{=html}
-`<img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=infant1532006&repo=Nassau-Candy-Optimization-system&theme=tokyonight&hide_border=true"
-      alt="Nassau Candy Optimization System repository card"
-    />`{=html} `</a>`{=html}
-:::
+- 🧩 Data Structures & Algorithms
+- 📐 Mathematics for AI/ML
+- 📊 Statistics
+- 🤖 Machine Learning
+- 🧠 Deep Learning with PyTorch
+- 🔥 Generative AI
+- 🔎 RAG Systems
+- 🤝 AI Agents
+- ⚙️ AI Automation
+- 🌐 Backend Development
 
-### 🍬 Nassau Candy --- Factory Reallocation & Shipping Optimization
+---
 
-A machine-learning-powered recommendation system designed to analyze
-shipping outcomes and recommend product-to-factory reallocations with
-the aim of improving shipping efficiency and profitability.
+# 🎯 Career Goal
 
--   **Problem:** Identify opportunities to improve factory allocation
-    and shipping decisions.
--   **Approach:** Analyze data, predict shipping outcomes, and generate
-    optimization recommendations.
--   **Tools:** Python, Scikit-learn, XGBoost, Streamlit.
--   **Live application:** [Open the Streamlit
-    app](https://factory-optimization-ml.streamlit.app/).
--   **Source code:** [View the GitHub
-    repository](https://github.com/infant1532006/Nassau-Candy-Optimization-system).
+My goal is to become an **AI/ML Engineer** capable of designing and building real-world intelligent applications.
 
-## 📊 GitHub Statistics
+My learning path:
 
-::: {align="center"}
-`<img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=infant1532006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub statistics"
-  />`{=html} `<img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=infant1532006&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used GitHub languages"
-  />`{=html}
+```text
+Python
+   ↓
+DSA
+   ↓
+Data Science
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+AI Engineering
+```
 
-`<br/>`{=html}
+I am particularly interested in building **AI-powered applications that solve real-world problems**.
 
-`<img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=infant1532006&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />`{=html}
-:::
+---
 
-## 🤝 Let's Connect
+# 📊 GitHub
 
-::: {align="center"}
-`<a href="https://www.linkedin.com/in/infantjesun15/">`{=html}
-`<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/infant1532006">`{=html}
-`<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>`{=html}
-`</a>`{=html}
+<div align="center">
 
-`<br/>`{=html}`<br/>`{=html}
+### 💻 Explore My Projects
 
-**Thanks for visiting my profile!**
+<a href="https://github.com/infant1532006?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=100&section=footer" width="100%" alt="Blue wave footer"/>`{=html}
-:::
+<br><br>
+
+<a href="https://github.com/infant1532006">
+<img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/infant1532006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/infantjesun15">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jesuninfant15@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=infant1532006&label=Profile%20Views&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learn. Build. Break. Fix. Repeat."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+
+</div>
